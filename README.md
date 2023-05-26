@@ -1,6 +1,6 @@
-# Ecommerce Desktop Application
+# EcommerceTradingPortal - A Desktop Java Application
 
-The Ecommerce Desktop Application is a Java-based application built using NetBeans IDE. It utilizes Oracle SQL and MongoDB for data storage and retrieval, providing a robust solution for managing an ecommerce business.
+The Ecommerce Desktop Application is a Java-based application built using NetBeans IDE. It utilizes both Oracle SQL and MongoDB for data storage and retrieval, providing a robust solution for managing an ecommerce business.
 
 ## Features
 
