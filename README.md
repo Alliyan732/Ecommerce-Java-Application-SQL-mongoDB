@@ -65,4 +65,7 @@ Feel free to contribute, report issues, and submit pull requests to enhance the 
 
 ## Contact
 
-For any questions or inquiries, please contact [Alliyan Waheed] at [alliyan732@gmail.com].
+If you have any questions, suggestions, or feedback, please contact:
+
+- Email: alliyan732@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alliyan-alvi/
